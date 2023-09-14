@@ -1,21 +1,11 @@
 # KalangoBot
 
-**TODO: Add description**
+Bot para Discord construído em Elixir utilziando a biblioteca Nostrum.
 
-## Installation
+Para executar, basta executar no terminal o seguinte comando:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `kalangobot` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:kalangobot, "~> 0.1.0"}
-  ]
-end
+```bash
+iex -S mix
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/kalangobot>.
 
