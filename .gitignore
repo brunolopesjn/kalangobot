@@ -24,3 +24,6 @@ kalangobot-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Ignore config file
+/config/config.exs
